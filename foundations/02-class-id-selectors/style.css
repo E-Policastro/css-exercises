@@ -1,2 +1,4 @@
-.odd {background-color: rgb(255, 145, 186);}
-.four {background-color: rgb(103, 188, 103); font-size: 24px;}
+.odd {background-color: rgb(251, 147, 210); font-family: Verdana, Geneva, Tahoma, sans-serif;}
+#two {color: blue; font-size: 36px;}
+.adjust-font-size {font-size: 24px;}
+#four {background-color: rgb(114, 230, 114); font-size: 24px; font-weight: bold;}
